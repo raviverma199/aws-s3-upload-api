@@ -1,0 +1,17 @@
+{
+  "name": "aws-s3-upload-api",
+  "version": "1.0.0",
+  "description": "A secure, production-ready backend API for uploading files to AWS S3 using Node.js &amp; Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
