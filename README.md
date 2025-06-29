@@ -27,14 +27,12 @@ AWS S3 Upload API is a secure, production-ready backend service built with Node.
    ```bash
    git clone https://github.com/raviverma199/aws-s3-upload-api.git
    cd aws-s3-upload-api
-
    ```
 
 2. **Install Dependencies:**
 
    ```bash
    npm install
-
    ```
    
 3.**Setup Environment Variables:**
@@ -51,4 +49,4 @@ AWS S3 Upload API is a secure, production-ready backend service built with Node.
 
   ```bash
   npm start
-   ```
+  ```
