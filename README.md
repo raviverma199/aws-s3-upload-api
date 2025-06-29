@@ -22,20 +22,33 @@ AWS S3 Upload API is a secure, production-ready backend service built with Node.
 
 ### 📦 Installation & Setup
 
-** 1. Clone the Repository **
-git clone https://github.com/raviverma199/aws-s3-upload-api.git
-cd aws-s3-upload-api
+1. **Clone the repository:**
 
-** 2. Install Dependencies **
-npm install
+   ```bash
+   git clone https://github.com/raviverma199/aws-s3-upload-api.git
+   cd aws-s3-upload-api
 
-** 3. Setup Environment Variables **
-AWS_ACCESS_KEY_ID=your_access_key
-AWS_SECRET_ACCESS_KEY=your_secret_key
-AWS_REGION=your_region
-AWS_BUCKET_NAME=your_bucket_name
-PORT=3000
+   ```
 
-** 4. Build & Run **
-npm start
+2. **Install Dependencies:**
 
+   ```bash
+   npm install
+
+   ```
+   
+3.**Setup Environment Variables:**
+
+   ```bash
+   AWS_ACCESS_KEY_ID=your_access_key
+   AWS_SECRET_ACCESS_KEY=your_secret_key
+   AWS_REGION=your_region
+   AWS_BUCKET_NAME=your_bucket_name
+   PORT=3000
+   ```
+
+4.**Build & Run:**
+
+  ```bash
+  npm start
+   ```
